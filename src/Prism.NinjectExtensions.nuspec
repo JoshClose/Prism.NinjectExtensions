@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Prism.NinjectExtensions</id>
+        <version>0.1.0</version>
+        <authors>Josh Close</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Use these extensions to build Prism applications based on Ninject version 3.2.</description>
+        <dependencies>
+            <dependency id="Ninject" version="3.2" />
+            <dependency id="Prism" version="5.0" />
+        </dependencies>
+    </metadata>
+    <files />
+</package>
